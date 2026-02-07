@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/StaticMesh/LVT_Build_TempleComponent_ShortStair_4m/Actor_LVT_Build_TempleComponent_ShortStair_4m.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Level/Level_LightingPlayGround.umap",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Shader/M_EV_DefualtLit.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/StaticMesh/LVT_Build_TempleComponent_ShortStair_4m/SM_LVT_Build_TempleComponent_ShortStair_4m.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Item_Build_TempleComponent_Cube_Decal_002_MOHR.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Item_Build_TempleComponent_Cube_Decal_002_N.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Item_Build_TempleComponent_Cube_Decal_003_CA.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Item_Build_TempleComponent_TallStair_001_C.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Item_Build_TempleComponent_TallStair_001_MOHR.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Item_Build_TempleComponent_TallStair_001_N.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Tiling_Item_Build_TempleComponent_Cube_C.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Tiling_Item_Build_TempleComponent_Cube_MOHR.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Texture/T_Tiling_Item_Build_TempleComponent_Cube_N.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Material/MI_EV_Stair_0.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Material/MI_EV_Stair_1.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/StaticMesh/LVT_Build_TempleComponent_StandardCube_4m/Actor_LVT_Build_TempleComponent_StandardCube_4m.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Material/MI_EV_Box_0.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/StaticMesh/Build_Yiji_Floor_2m2m/Actor_Build_Yiji_Floor_2m2m.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Material/MI_EV_Box_2.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/StaticMesh/Build_Yiji_Floor_2m2m/Actor_Build_Yiji_Floor_2m2m_Dark.uasset",
+				"E:/UGit/HierarchicalLevelOfDetailWithSimplygon/UnrealProject/Content/Levels/Level_LightingPlayGround.umap"
+			]
+		}
+	]
+}
